@@ -26,4 +26,3 @@
 ![Dashboard Screenshot](images/img16.png)
 ![Dashboard Screenshot](images/img17.png)
 ![Dashboard Screenshot](images/img18.png)
-![Dashboard Screenshot](images/img19.png)
